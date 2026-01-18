@@ -1,4 +1,3 @@
-# 44. Move all zeros to the end without changing the order of non-zero numbers
 arr = [1, 0, 2, 3, 0, 4, 0, 5, 6, 0]
 result = []
 zero_count = 0
