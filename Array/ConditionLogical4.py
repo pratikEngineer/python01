@@ -1,4 +1,3 @@
-# 14. Check if the array forms a palindrome
 arr = [1, 2, 3, 4, 3, 2, 1]
 is_palindrome = True
 n = len(arr)

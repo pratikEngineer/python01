@@ -1,4 +1,3 @@
-# 9. Print all vowels in the string "education" using a for loop
 string = "education"
 vowels = "aeiouAEIOU"
 print("Vowels in 'education':")

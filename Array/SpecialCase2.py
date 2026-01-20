@@ -1,4 +1,4 @@
-# 42. Find the most frequently occurring number in the array
+#Find the most frequently occurring number in the array
 arr = [4, 4, 5, 6, 7, 5, 6, 6, 6, 7, 8]
 frequency = {}
 for num in arr:

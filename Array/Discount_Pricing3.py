@@ -1,4 +1,3 @@
-# 38. Find the total price after applying a "Buy 2 Get 1 Free" offer
 prices = [100, 150, 200, 250, 300, 350]
 prices_sorted = sorted(prices)
 total = sum(prices)

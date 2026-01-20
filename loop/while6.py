@@ -1,4 +1,3 @@
-# 6. Reverse a string using a while loop
 string = "code"
 reversed_string = ""
 i = len(string) - 1

@@ -1,4 +1,3 @@
-# 7. Count the number of digits in a number using a while loop
 number = 12345
 count = 0
 temp = number

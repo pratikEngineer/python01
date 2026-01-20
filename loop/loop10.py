@@ -1,4 +1,3 @@
-# 10. Print a specific character in a string
 word = "scala"
 char_to_find = "s"
 

@@ -1,4 +1,3 @@
-# 11. Print even-indexed characters in a string using a for loop
 string = "hello"
 print("Even-indexed characters:")
 for i in range(0, len(string), 2):

@@ -1,4 +1,3 @@
-# 37. If a customer purchases 3 items, apply a 10% discount; otherwise, no discount
 prices = [120, 80, 40, 200, 300]
 total = sum(prices)
 if len(prices) >= 3:
