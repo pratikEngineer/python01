@@ -8,6 +8,7 @@ data = [
     "hello pyspark",
     "spark with python",
     "hello spark"
+    "Hey There"
 ]
 
 # Create RDD
@@ -25,3 +26,5 @@ word_count = (
 print(word_count.collect())
 
 sc.stop()
+
+
