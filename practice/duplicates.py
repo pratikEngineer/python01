@@ -18,8 +18,17 @@
 
 
 
+# def remove_duplicates(arr):
+# return list(dict.fromkeys(arr))
+# arr=[1,2,3,5,2,5,6,3,7]
+# a = remove_duplicates(arr)
+# print(a)
+
 def remove_duplicates(arr):
-    return list(dict.fromkeys(arr))
+
+    unique_arr = list(set(arr))
+    return unique_arr
+
 arr=[1,2,3,5,2,5,6,3,7]
 a = remove_duplicates(arr)
 print(a)
